@@ -1,7 +1,7 @@
 ### Hi there 👋    
 - Su Jeong Lee<br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsj9556@gmail.com)](mailto:lsj9556@gmail.com)
-![Tistory Badge](https://img.shields.io/badge/-tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://chamggae.tistory.com)
+[![Tistory Badge](https://img.shields.io/badge/-tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://chamggae.tistory.com)
 <br/>
 
 #### 👩‍🎓 Education
