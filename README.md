@@ -18,9 +18,7 @@
 --- 
 #### 🐈‍⬛ Git stats  
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=tnwjd4623&count_private=true)](https://github.com/tnwjd4623/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwjd4623&layout=compact)](https://github.com/tnwjd4623/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tnwjd4623&count_private=true)](https://github.com/tnwjd4623/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwjd4623&layout=compact)](https://github.com/tnwjd4623/github-readme-stats)
 
 <br/> 
 
